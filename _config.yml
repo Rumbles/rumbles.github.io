@@ -4,7 +4,7 @@ author: James Stocker # You :P
 description: > # Meta description of Homepage
   Helen Wilson is a dog walker in Hillsborough, Sheffield UK
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rumbles.github.io/wilson-walks" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rumbles.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
