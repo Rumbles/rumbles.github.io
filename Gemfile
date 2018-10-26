@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-#gem "jekyll-sleek"
+gem "minima"
 gem "rake"
 
 source "https://rubygems.org"
