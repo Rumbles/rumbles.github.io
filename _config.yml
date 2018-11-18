@@ -10,7 +10,8 @@ url: "https://wilsonwalks.dog/" # the base hostname & protocol for your site, e.
 social:
   name: Helen Wilson
   links:
-    - https://www.facebook.com/wilson-walks-hillsborough
+    - https://www.facebook.com/wilsonwalkspets/
+    - https://www.instagram.com/wilsonwalkspets/
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -27,7 +28,6 @@ logo: posts/logo.png
 email: helen@wilsonwalks.dog # email for form submission
 
 #twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-github_username:  Rumbles # replace with your_github_username or comment to remove link from footer
 instagram_username: wilsonwalkspets # replace with your_instagram_username or comment to remove link from footer
 
 #disqus:
