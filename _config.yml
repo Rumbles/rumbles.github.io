@@ -4,7 +4,7 @@ author: James Stocker # You :P
 description: > # Meta description of Homepage
   I'm a dog walker in Middlewood, near Hillsborough, Sheffield UK
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://wilsonwalks.dog/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rumbles.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
