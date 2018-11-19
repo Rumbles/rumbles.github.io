@@ -4,7 +4,7 @@ author: James Stocker # You :P
 description: > # Meta description of Homepage
   I'm a dog walker in Middlewood, near Hillsborough, Sheffield UK
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rumbles.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.wilsonwalks.dog/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
@@ -20,7 +20,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  An experienced dog walker in Middlewood, North Sheffield, starting my own business in December 2018
+  An experienced dog walker and pet sitter in and around Sheffield, starting my own business in December 2018
 
 hero_img: posts/wilson_walks.jpg
 logo: posts/logo.png

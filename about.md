@@ -2,18 +2,23 @@
 layout: page
 title: About
 permalink: /about/
+featured-img: dogs_in_car
 ---
 
-I've always loved animals and have owned a number throughout my life, but last year me and my partner decided to get a rescue dog. After a rollercoaster 6 months I realised that I wanted to send more of my time with animals and decided to look in to dog walking and pet sitting as a full time career.
+Hello, my name is Helen and I am the owner of Wilson Walks. I set up this company after me and my partner decided to adopted a 7 year old rescue dog named Taz. Taz was a timid little bear, who lacked confidence and was very reactive towards anything that moved. We sought advice from some great professionals and got stuck into training him. After a rollercoaster 6 months and a lot of hard work I realised that I wanted to spend more of my time with animals and decided to look in to dog walking and pet sitting as a full time career.
 
-I have my Doggy First Aid certificate and I've been doing a lot of reward based obedience training and work with my own dog regularly to help him with his anxiety issues after a lifetime of negligence on a puppy farm.
+I live and work in Middlewood and Hillsborough, Sheffield and I’m looking to start working in December this year.
 
-I live and work in Middlewood and Hillsborough, Sheffield and I'm looking to start working in early 2019.
+From December 2018 I will be providing the following services:
 
-I plan on offering services for the following:
+ * Dog walking
+ * Puppy sitting
+ * Cat sitting
+ * Stay at home boarding
+ * Holiday pet sitting
+ * Small animal feeding
+ * From January 2019 I will also be providing a pet taxi service.
 
-  * Dog Walking
-  * Pet & House Sitting
-  * Pet Taxi
+I am fully insured and pet first aid trained. I have worked as a civil servant for 4 years for which I had full background checks and security clearance. However, for your peace of mind I have also obtained a DBS check, which I will make available to view when we meet.
 
-I am still working on pricing, so please contact me if you're interested and I will try to get back to you as soon as possible.
+I am taking bookings now in time for December 2018. If you would like to get in touch please either <a href="tel:07742795513">call me</a>, visit the <a href="/contact/">contact</a> page or <a href="mailto:helen@wilsonwalks.dog">email me</a>.
