@@ -2,7 +2,7 @@
 layout: post
 title: Dog Walking
 summary: Dog Walking around Hillsborough in north Sheffield
-feaitured-img: walking
+featured-img: walking
 categories: Service
 ---
 
