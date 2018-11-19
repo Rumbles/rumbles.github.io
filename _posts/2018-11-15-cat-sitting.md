@@ -6,7 +6,7 @@ featured-img: cat_sitting
 categories: Service
 ---
 
-#Cat Sitting
+# Cat Sitting
 
 Duration varies • £8 per 30 minute visit
 

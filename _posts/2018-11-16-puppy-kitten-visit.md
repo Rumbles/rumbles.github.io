@@ -6,7 +6,7 @@ featured-img: puppy
 categories: Service
 ---
 
-#Puppy/Kitten Visit
+# Puppy/Kitten Visit
 
 Duration varies • £8 per 30 minute visit
 
