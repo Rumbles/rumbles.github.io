@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cat Sitting
-summary: Cat sitting service in Sheffield
+summary: Cat sitting service near Middlewood in north Sheffield
 featured-img: cat_sitting
 categories: Service
 ---
