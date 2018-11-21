@@ -5,7 +5,7 @@ permalink: /about/
 featured-img: dogs_in_car
 ---
 
-Hello, my name is Helen and I am the owner of Wilson Walks. I set up this company after me and my partner decided to adopted a 7 year old rescue dog named Taz. Taz was a timid little bear, who lacked confidence and was very reactive towards anything that moved. We sought advice from some great professionals and got stuck into training him. After a rollercoaster 6 months and a lot of hard work I realised that I wanted to spend more of my time with animals and decided to look in to dog walking and pet sitting as a full time career.
+Hello, my name is Helen and I am the owner of Wilson Walks. I set up this company after me and my partner decided to adopt a 7 year old rescue dog named Taz. Taz was a timid little bear, who lacked confidence and was very reactive towards anything that moved. We sought advice from some great professionals and got stuck into training him. After a rollercoaster 6 months and a lot of hard work I realised that I wanted to spend more of my time with animals and decided to look in to dog walking and pet sitting as a full time career.
 
 I live and work in Middlewood and Hillsborough, Sheffield and I’m looking to start working in December this year.
 
