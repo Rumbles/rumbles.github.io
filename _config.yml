@@ -35,7 +35,7 @@ phone_number: 07742795513
 #disqus:
 #  shortname: janczizikow # to enable comments replace with your_disqus_shortname
 
-# google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
+google_tag_manager: UA-130105071-1
 
 service_worker: true
 
