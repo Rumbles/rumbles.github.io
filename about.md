@@ -9,7 +9,7 @@ Hello, my name is Helen and I am the owner of Wilson Walks. I set up this compan
 
 I live and work in Middlewood and Hillsborough, Sheffield and I’m looking to start working in December this year.
 
-From December 2018 I will be providing the following services:
+I am currently providing the following services:
 
  * Dog walking
  * Puppy sitting
@@ -21,4 +21,4 @@ From December 2018 I will be providing the following services:
 
 I am fully insured and pet first aid trained. I have worked as a civil servant for 4 years for which I had full background checks and security clearance. However, for your peace of mind I have also obtained a DBS check, which I will make available to view when we meet.
 
-I am taking bookings now in time for December 2018. If you would like to get in touch please either <a href="tel:07742795513">call me</a>, visit the <a href="/contact/">contact</a> page or <a href="mailto:helen@wilsonwalks.dog">email me</a>.
+I am taking bookings now. If you would like to get in touch please either <a href="tel:07742795513">call me</a>, visit the <a href="/contact/">contact</a> page or <a href="mailto:helen@wilsonwalks.dog">email me</a>.
