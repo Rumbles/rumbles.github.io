@@ -5,5 +5,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Wilson Walks, Hillsborough Sheffield UK
+title: Wilson Walks, a dog walker in Hillsborough, Sheffield UK
 ---
