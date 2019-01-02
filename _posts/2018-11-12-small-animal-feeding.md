@@ -3,7 +3,6 @@ layout: post
 title: Small Animal Feeding
 summary: Feeding small animals in north Sheffield
 featured-img: small_animal
-categries: Service
 ---
 
 # Small Animal Feeding

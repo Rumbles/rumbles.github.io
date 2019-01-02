@@ -3,7 +3,6 @@ layout: post
 title: Puppy/Kitten Visit
 summary: Puppy and Kitten visits in north Sheffield
 featured-img: puppy
-categories: Service
 ---
 
 # Puppy/Kitten Visit

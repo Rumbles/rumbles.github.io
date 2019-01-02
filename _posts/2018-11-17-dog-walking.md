@@ -3,7 +3,6 @@ layout: post
 title: Dog Walking
 summary: Dog Walking in north Sheffield
 featured-img: walking
-categories: Service
 ---
 
 # Dog Walking

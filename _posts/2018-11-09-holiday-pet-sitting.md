@@ -3,7 +3,6 @@ layout: post
 title: Holiday Pet Sitting
 summary: Looking after your pet while you are visiting Sheffield
 featured-img: holiday_pet_care
-categories: Service
 ---
 
 # Holiday pet Sitting
