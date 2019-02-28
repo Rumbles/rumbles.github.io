@@ -2,7 +2,7 @@
 layout: post
 title: Qualifications
 summary: Courses and Qualifications I have taken to help me look after animals
-featured-img: holiday_pet_care
+featured-img: study
 ---
 
 # Qualifications
