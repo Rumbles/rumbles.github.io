@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dog Walking
-summary: Dog Walking in north Sheffield
+summary: Regular dog walks near your home, either solo or with other dogs
 featured-img: walking
 ---
 
