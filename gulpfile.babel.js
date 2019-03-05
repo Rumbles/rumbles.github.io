@@ -164,6 +164,10 @@ gulp.task( "img", () => {
             width: 1999,
             rename: { suffix: "_lg" }
           },
+          {
+            width: 200,
+            rename: { suffix: "_200" }
+          },
           { // max-width hero
             width: 1920
           }

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Small Animal Feeding
-summary: Feeding small animals in north Sheffield
+summary: Looking after and feeding small animals in your home
 featured-img: small_animal
 ---
 
