@@ -34,7 +34,7 @@ I have taken a number of courses which will help me work with animals and care f
   </tr>
   <tr>
     <td>10/02/2019</td>
-    <td><h3>Canine Body Language</h3>This workshop focused on the reading and interpreting subtle body language and facial expressions, allowing me to fully understand what a dog is really trying to communicate. More information can be found on their <a href="https://www.dogtrainingcollege.co.uk/canine-body-language">website</a></td>
+    <td><h3>Canine Body Language</h3>This workshop focused on reading and interpreting subtle body language and facial expressions, allowing me to fully understand what a dog is really trying to communicate. More information can be found on their <a href="https://www.dogtrainingcollege.co.uk/canine-body-language">website</a></td>
     <td><div class="zoom"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/CanineBodyLanguage.png" alt="Canine Body Language"></div></td>
   </tr>
 </table> 
